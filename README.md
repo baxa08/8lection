@@ -1,2 +1,2 @@
 # 8lection
-For practice git
+Этот проект создан для практики работы с Git
